@@ -1,0 +1,23 @@
+{
+  "name": "print-crayon-module",
+  "version": "0.1.0",
+  "description": "a module that will print an ascii crayon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maryshrives/print-number-module.git"
+  },
+  "keywords": [
+    "number",
+    "symbol"
+  ],
+  "author": "Mary Shrives",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryshrives/print-number-module/issues"
+  },
+  "homepage": "https://github.com/maryshrives/print-number-module#readme"
+}
